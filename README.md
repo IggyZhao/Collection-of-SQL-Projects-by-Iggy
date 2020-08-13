@@ -1,1 +1,1 @@
-# SQL-Project-of-Recommendation-System-by-Iggy
+# SQL-Project-of-Recommendation-Engine-by-Iggy
